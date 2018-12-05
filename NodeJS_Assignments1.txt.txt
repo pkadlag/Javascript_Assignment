@@ -1,12 +1,12 @@
 1. Create a program that adds 2 numbers.
-ans.     add=function () 
+ans.     addition=function () 
       {
          var a=23;
          var b=20;
          var c=a+b;
          console.log(c);
       }
-        sadd();
+        addition();
 
 2. Create a program that finds the highest number out of 3 numbers.
 ans.     max_of_three=function (x, y, z) 
